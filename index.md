@@ -7,13 +7,13 @@ Donald Duck, mit vollstaedigem Namen "Donald Fauntleroy Duck", gehoert zur fikti
 
 ## Charaktereigenschaften
 
-- fuelliger Koerperbau
-- Watschelfuesse
-- neigt zu Wutausbruechen
-- cholerisch
-- tollpatschig
-- gemuetlich
-- grosszuegig
-- vom Pech verfolgt
+* fuelliger Koerperbau
+* Watschelfuesse
+* neigt zu Wutausbruechen
+* cholerisch
+* tollpatschig
+* gemuetlich
+* grosszuegig
+* vom Pech verfolgt
 
 
