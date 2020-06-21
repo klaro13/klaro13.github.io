@@ -18,4 +18,4 @@ Donald Duck, mit vollstaedigem Namen "Donald Fauntleroy Duck", gehoert zur fikti
 
 > Hinaus in Feld und Flur! Hinauf auf Gipfel und Grat! Durch Hag und Heide, durch Moor, Modder und Morast!
 
-
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Donald_Duck.svg/220px-Donald_Duck.svg.png"/>
